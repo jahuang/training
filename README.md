@@ -17,6 +17,30 @@ This assignment is about implementing the backend for a test paper contributing 
 
 #### Mockups
 
+Contributor - Registration
+
+![alt tag](https://raw.githubusercontent.com/jahuang/training/master/images/contributor-registration.png)
+
+Contributor - Add new test paper
+
+![alt tag](https://raw.githubusercontent.com/jahuang/training/master/images/contributor-add-new-paper.png)
+
+Contributor - Papers List
+
+![alt tag](https://raw.githubusercontent.com/jahuang/training/master/images/contributor-papers-list.png)
+
+Student - Registration
+
+![alt tag](https://raw.githubusercontent.com/jahuang/training/master/images/student-registration.png)
+
+Student - Search for papers
+
+![alt tag](https://raw.githubusercontent.com/jahuang/training/master/images/student-papers-list.png)
+
+Student - Submit answer
+
+![alt tag](https://raw.githubusercontent.com/jahuang/training/master/images/student-answer.png)
+
 ### Requirements
 
 * Ruby on Rails.
