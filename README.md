@@ -17,7 +17,6 @@ This assignment is about implementing the backend for a test paper contributing 
 
 #### Mockups
 
-
 ### Requirements
 
 * Ruby on Rails.
